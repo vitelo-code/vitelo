@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/vitelo/static/css/main.202572ee.css",
+    "main.js": "/vitelo/static/js/main.39659044.js",
+    "static/media/profileImg.png": "/vitelo/static/media/profileImg.db63b7b700cd0ca5843f.png",
+    "static/media/imageCoding.png": "/vitelo/static/media/imageCoding.1fe7e2f07c8751ca5233.png",
+    "static/media/github.svg": "/vitelo/static/media/github.4fe102831c8b7077bc9e11178098c10b.svg",
+    "static/media/instagram.svg": "/vitelo/static/media/instagram.f80af99fe3d8574e35a62b3da28c1d21.svg",
+    "index.html": "/vitelo/index.html",
+    "static/media/linkedin.svg": "/vitelo/static/media/linkedin.93683c2cc3d5ca884dcf6c3525104a48.svg",
+    "main.202572ee.css.map": "/vitelo/static/css/main.202572ee.css.map",
+    "main.39659044.js.map": "/vitelo/static/js/main.39659044.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.202572ee.css",
+    "static/js/main.39659044.js"
+  ]
+}
