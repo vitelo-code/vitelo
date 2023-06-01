@@ -1,0 +1,30 @@
+.vitelo__Navbar {
+    position:relative;
+    z-index: 1;
+    padding: 1rem 3rem;
+    background: var(--color-bg-dark3);
+}
+
+.vitelo__Navbar-content {
+    margin: 0px auto;
+    width: 100%;
+    max-width: 77.5rem;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.vitelo__Navbar-content h1 {
+    margin-right: auto;
+    font-family: var(--font-family-title);
+    font-size: 35px;
+}
+
+.vitelo__Navbar-content p {
+    font-family: var(--font-family-title);
+    font-size: 24px;
+}
